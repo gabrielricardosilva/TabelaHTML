@@ -1,1 +1,1 @@
-<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
+<img src="images/Tabela.png" alt="Tabela">
